@@ -13,7 +13,7 @@ They would like to have an Apache Cassandra database which can create queries on
 
 ## Project description
 The initial data screenshot is provided below:
-![Initial data](/images/image_event_datafile.jpg)
+![Initial data](/images/image_event_datafile_new.jpg)
 
 The output of the project is designed according to the project's needs and answers the following questions (queries):
 ### Query 1
